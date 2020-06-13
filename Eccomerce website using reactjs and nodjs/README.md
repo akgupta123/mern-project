@@ -1,4 +1,4 @@
-Prerequisites: Have mongodb installed with required data imported. Database Name: HackerEarth Collection Name: Restaurants Make sure you have above 2 things set up on system.
+Prerequisites: Have mongodb installed with required data imported. Database Name: amazona Collection Name: amazona Make sure you have above 2 things set up on system.
 
 To run locally:
 
